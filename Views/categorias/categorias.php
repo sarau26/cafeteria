@@ -47,7 +47,9 @@ $products=$obj->productos($_GET['nombre']);
     </tbody>
 </table>
 
-
+<?php
+require_once("c:/xampp/htdocs/prueba_tecnica/Views/head/footer.php");
+?>
 
 
 
